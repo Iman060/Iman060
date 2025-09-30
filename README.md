@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 👋 Hello! I'm Iman Huseynov  
-- 🎓 3rd-year Computer Science student with a passion for problem-solving and software development  
+## 👋 Hello! I'm Iman Huseynov  
+- 🎓 3rd-year Information and Cominication Engineering student In Beu-Inha DDP program 
 - 🚀 Aspiring Full-Stack Developer | Frontend Hater | Backend Explorer  
 - 💡 Strong background in **C++**, especially in **data structures, algorithms, and string manipulation**  
 - 🎮 Love building projects like **OpenGL/FreeGLUT-based games** and experimenting with interactive graphics  
@@ -28,6 +28,7 @@
 
 ### ⚙️ Environment
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
 
 ### 📚 Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
@@ -40,10 +41,11 @@
 
 ### 🎨 Design & Styling
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
 
 ---
 
