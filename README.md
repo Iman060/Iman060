@@ -1,11 +1,11 @@
 # 💫 About Me:
 ## 👋 Hello! I'm Iman Huseynov  
 - 🎓 3rd-year Information and Cominication Engineering student In Beu-Inha DDP program 
-- 🚀 Aspiring Full-Stack Developer | Frontend Hater | Backend Explorer  
+- 🚀 Aspiring Full-Stack Developer | **Frontend** & **Backend** Explorer  
 - 💡 Strong background in **C++**, especially in **data structures, algorithms, and string manipulation**  
 - 🎮 Love building projects like **OpenGL/FreeGLUT-based games** and experimenting with interactive graphics  
 - 🌱 Currently focused on sharpening my **front-end & back-end development skills** through real-world projects  
-- 🎯 Goals: Contribute to impactful open-source projects and develop innovative solutions  
+- 🎯 Goal: Become a skilled MERN stack developer
 - 🐱 Cat lover | 🎮 Gamer | ⚡ Always eager to learn and explore new technologies  
 
 ---
