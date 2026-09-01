@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## 👋 Hello! I'm Iman Huseynov  
-- 🎓 3rd-year Information and Cominication Engineering student In Beu-Inha DDP program 
+- 🎓 4rd-year Information and Cominication Engineering student In Beu-Inha DDP program 
 - 🚀 Aspiring Full-Stack Developer | **Frontend** & **Backend** Explorer  
 - 💡 Strong background in **C++**, especially in **data structures, algorithms, and string manipulation**  
 - 🎮 Love building projects like **OpenGL/FreeGLUT-based games** and experimenting with interactive graphics  
